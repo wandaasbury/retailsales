@@ -2,6 +2,7 @@ SQL Database Management - Retail Sales Data Analysis
 
 This project involved querying a relational database to analyze sales, product, region, vendor and customer data for a retail company.
 
+<hr>                                                        
 CustomerID and CustomerName for all customers whose CustomerName begins with a letter T
 
 <img width="467" height="235" alt="image" src="https://github.com/user-attachments/assets/e223acdd-9702-44df-bd8c-a3abd041813b" />
